@@ -1,4 +1,4 @@
-# community-forum
+# Community Forum
 This repo is designed for community proposals and discussion related to the Oasis Network.
 Proposals can be published by any community member and are used to collect feedback,
 and engage in discussion on key milestones, road map items and features of the network.
