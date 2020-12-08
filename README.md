@@ -4,14 +4,7 @@ This repository is designed for community proposals and discussion related to th
 
 ## Getting Started
 
-To start a discussion, please open a new issue. Then, in the subject line indicate which category
-this discussion pertains to. Options include (but are not limted to):
-
-- [Mainnet]
-- [Testnet]
-- [Developer Experience]
-- [ParaTime Development]
-- [Community]
+To start a discussion use the [_Discussions_ ](https://github.com/oasisprotocol/community/discussions) GitHub feature. Make sure to select the right category -- if you're not sure which one is the most appropriate use _General_.
 
 ## Broadcasting for Feedback
 
